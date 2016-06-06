@@ -4,3 +4,5 @@ function main() {
 }
 
 console.log('loading');
+
+// adding another comment
